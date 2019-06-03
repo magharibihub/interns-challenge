@@ -1,18 +1,3 @@
-# interns-challenge
-
-
-## This challenge is due at 5.00pm on 4th June 2019
-
-The code challenge will be judged using the following criteria:
-
-A Correct fork, branch and pull request
-Code quality and structure will be evaluated by the team
-Complete challenge below
-
-## Challenge
-
-
-
 <p align="center">
     <img src="https://github.com/magharibihub/interns-challenge/blob/master/.github/icons8_challenge.png" alt="Challenge" width="100" height="100">
 </p>
